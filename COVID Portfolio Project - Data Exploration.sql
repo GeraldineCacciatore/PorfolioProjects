@@ -1,4 +1,4 @@
--- Select Data whta I am going to be using
+-- Select Data what I am going to be using
 SELECT Location, Date, total_cases, new_cases, total_deaths, population
 FROM CovidDeaths 
 ORDER BY 1,2;
